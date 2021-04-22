@@ -1,1 +1,2 @@
-# Dashboard1
+This is a simple android app, with Canadian National Anthem.
+--Prachi Jansari
